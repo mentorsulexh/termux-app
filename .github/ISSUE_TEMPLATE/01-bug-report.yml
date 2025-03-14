@@ -38,7 +38,7 @@ body:
       description: Please provide info about your device
       value: |
         * Termux application version:
-        * Android OS version:
+        * Android  Infinix X688B version:
         * Device model:
     validations:
       required: true
